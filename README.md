@@ -2,6 +2,8 @@
 A simple command manager, which uses "nodes" for command creation and management.  
 Was made for personal use.
 
+Python Version: 3.7
+
 ## How it works?
 Node works by, creating a key inside a dictionary, naming it whatever the user wants and assigning a path to it, which then call be run, with only the name of the node.
 
